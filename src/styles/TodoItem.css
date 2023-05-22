@@ -1,0 +1,36 @@
+li{
+   position: relative;
+   display: flex;
+   justify-items: center;
+   align-items: center;
+   list-style: none; 
+   background-color: white;
+   padding: 4px;
+   padding-left: 12px;
+   margin: 8px;
+   border-radius: 8px;
+}
+
+.check-icon{
+   width: 25px;
+   cursor: pointer;
+   
+}
+
+.todo-text{
+   width: calc(100%);
+   
+}
+
+.done{
+   text-decoration: line-through;
+}
+
+.delete-icon{
+
+   width: 25px;
+   margin-right: 0px;
+   cursor: pointer;
+}
+
+

@@ -1,0 +1,22 @@
+input{
+    font-size: 20px;
+    height: 32px;
+    padding: 8px;
+    width: 85%;
+    margin: auto;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+input:hover {
+    box-shadow: 1px 0px 18px 6px rgba(79,196,232,1);
+   
+}
+
+input:focus-visible{
+    outline-color: white;
+}
+
+
